@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Shell command line](./page/shell/base.html).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
